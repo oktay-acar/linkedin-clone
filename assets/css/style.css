@@ -1,0 +1,29 @@
+body {
+  background-color: #f4f2ee;
+  font-family: -apple-system, system-ui, BlinkMacSystemFont, Segoe UI, Roboto,
+    Helvetica Neue, Fira Sans, Ubuntu, Oxygen, Oxygen Sans, Cantarell,
+    Droid Sans, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol,
+    Lucida Grande, Helvetica, Arial, sans-serif;
+}
+
+/* Font Size */
+.fs-12 {
+  font-size: 12px;
+}
+
+.fs-14 {
+  font-size: 14px !important;
+}
+
+/* Position */
+.position-relative {
+  height: 25px;
+}
+
+.position-start-12 {
+  left: 12px;
+}
+
+.position-start-24 {
+  left: 24px;
+}
